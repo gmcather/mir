@@ -1,0 +1,112 @@
+Duration	1
+Acoustic Guitar Fraction	2
+Amount of Arpeggiation	3
+Average Melodic Interval	4
+Average Note Duration	5
+Average Note To Note Dynamics Change	6
+Average Number of Independent Voices	7
+Average Range of Glissandos	8
+Average Time Between Attacks	9
+Average Time Between Attacks For Each Voice	10
+Average Variability of Time Between Attacks For Each Voice	11
+Brass Fraction	12
+Changes of Meter	13
+Chromatic Motion	14
+Combined Strength of Two Strongest Rhythmic Pulses	15
+Compound Or Simple Meter	16
+Direction of Motion	17
+Distance Between Most Common Melodic Intervals	18
+Dominant Spread	19
+Duration of Melodic Arcs	20
+Electric Guitar Fraction	21
+Electric Instrument Fraction	22
+Glissando Prevalence	23
+Harmonicity of Two Strongest Rhythmic Pulses	24
+Importance of Bass Register	25
+Importance of High Register	26
+Importance of Loudest Voice	27
+Importance of Middle Register	28
+Initial Tempo	29
+Interval Between Strongest Pitch Classes	30
+Interval Between Strongest Pitches	31
+Maximum Note Duration	32
+Maximum Number of Independent Voices	33
+Melodic Fifths	34
+Melodic Intervals in Lowest Line	35
+Melodic Octaves	36
+Melodic Thirds	37
+Melodic Tritones	38
+Minimum Note Duration	39
+Most Common Melodic Interval	40
+Most Common Melodic Interval Prevalence	41
+Most Common Pitch Class	42
+Most Common Pitch Class Prevalence	43
+Most Common Pitch	44
+Most Common Pitch Prevalence	45
+Note Density	46
+Number of Common Melodic Intervals	47
+Number of Common Pitches	48
+Number of Moderate Pulses	49
+Number of Pitched Instruments	50
+Number of Relatively Strong Pulses	51
+Number of Strong Pulses	52
+Number of Unpitched Instruments	53
+Orchestral Strings Fraction	54
+Overall Dynamic Range	55
+Percussion Prevalence	56
+Pitch Class Variety	57
+Pitch Variety	58
+Polyrhythms	59
+Primary Register	60
+Quality	61
+Quintuple Meter	62
+Range	63
+Range of Highest Line	64
+Relative Note Density of Highest Line	65
+Relative Range of Loudest Voice	66
+Relative Strength of Most Common Intervals	67
+Relative Strength of Top Pitch Classes	68
+Relative Strength of Top Pitches	69
+Repeated Notes	70
+Rhythmic Looseness	71
+Rhythmic Variability	72
+Saxophone Fraction	73
+Second Strongest Rhythmic Pulse	74
+Size of Melodic Arcs	75
+Staccato Incidence	76
+Stepwise Motion	77
+Strength of Second Strongest Rhythmic Pulse	78
+Strength of Strongest Rhythmic Pulse	79
+Strength Ratio of Two Strongest Rhythmic Pulses	80
+String Ensemble Fraction	81
+String Keyboard Fraction	82
+Strongest Rhythmic Pulse	83
+Strong Tonal Centres	84
+Triple Meter	85
+Variability of Note Duration	86
+Variability of Note Prevalence of Pitched Instruments	87
+Variability of Note Prevalence of Unpitched Instruments	88
+Variability of Number of Independent Voices	89
+Variability of Time Between Attacks	90
+Variation of Dynamics	91
+Variation of Dynamics In Each Voice	92
+Vibrato Prevalence	93
+Violin Fraction	94
+Voice Equality - Dynamics	95
+Voice Equality - Melodic Leaps	96
+Voice Equality - Note Duration	97
+Voice Equality - Number of Notes	98
+Voice Equality - Range	99
+Voice Separation	100
+Woodwinds Fraction	101
+Basic Pitch Histogram	229
+Beat Histogram	390
+Fifths Pitch Histogram	402
+Initial Time Signature	404
+Melodic Interval Histogram	532
+Note Prevalence of Pitched Instruments	660
+Note Prevalence of Unpitched Instruments	707
+Pitch Class Distribution	719
+Pitched Instruments Present	847
+Time Prevalence of Pitched Instruments	975
+Unpitched Instruments Present	1022
